@@ -6,7 +6,7 @@ tags:
 date: "2022-03-20"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/sylvainlapeyrade/Academic-Website"
+external_link: "https://github.com/sylvainlapeyrade/theme-academic-cv"
 
 image:
   caption: Illustration of the game's main menu.
@@ -17,7 +17,7 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: "https://github.com/sylvainlapeyrade/Academic-Website"
+url_code: "https://github.com/sylvainlapeyrade/theme-academic-cv"
 url_pdf: ""
 url_slides: ""
 url_video: ""

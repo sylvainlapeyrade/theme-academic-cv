@@ -1,10 +1,15 @@
 # IDEs
 .idea/
+.vscode/
 
-# Hugo
-resources/
-public/
-jsconfig.json
-node_modules/
-go.sum
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
 .hugo_build.lock
+
+# Remove DS_Store files in all subfolders
+**/.DS_Store
+
+go.sum

@@ -5,10 +5,13 @@ title: Sylvain LAPEYRADE
 # Is this the primary user of the site?
 superuser: true
 
+# Highlight the author in author lists? (true/false)
+highlight_name: true
+
 # Role/position/tagline
 role: Data Scientist & PhD Student
 
-# Organizations/Affiliations to show in About widget
+# Organizations/Affiliations to display in Biography blox
 organizations:
 - name: Shift Technology
   url: https://shift-technology.com
@@ -25,7 +28,6 @@ interests:
 - Machine Learning
 - Game Artificial Intelligence
 
-# Education to show in About widget
 education:
   courses:
   - course: PhD Game Artificial Intelligence

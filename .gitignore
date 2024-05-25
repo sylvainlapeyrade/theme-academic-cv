@@ -2,7 +2,7 @@
 .idea/
 .vscode/
 
-# Generated files by hugo
+# Hugo
 /public/
 /resources/_gen/
 /assets/jsconfig.json
@@ -11,5 +11,3 @@ hugo_stats.json
 
 # Remove DS_Store files in all subfolders
 **/.DS_Store
-
-go.sum
